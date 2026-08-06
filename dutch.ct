@@ -6,7 +6,7 @@
 ;
 ;******************
 ;
-## version $VER: reqtools.catalog 38.3 (18.02.1996)
+## version $VER: reqtools.catalog 39.0 (06.08.2026)
 ## codeset 0
 ## language nederlands
 ;
@@ -74,6 +74,18 @@ _Smeer
 ;
 MSG_UNDO
 _Herstel
+;
+MSG_COPY_TITLE
+Kopieer naar...
+; Copy to...
+;
+MSG_SWAP_TITLE
+Verwissel met...
+; Swap with...
+;
+MSG_SPREAD_TITLE
+Smeer naar...
+; Spread to...
 ;
 ; *** File Requester ***
 ;
