@@ -1,0 +1,224 @@
+## version $VER: reqtools.catalog 39.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_OK
+ _Tamam
+;  _Ok
+;
+MSG_CANCEL
+_Vazgeç
+; _Cancel
+;
+MSG_OK_BAR_CANCEL
+ _Tamam |_Vazgeç
+;  _Ok |_Cancel
+;
+MSG_LAST_BAR_CANCEL
+_Son|_Vazgeç
+; _Last|_Cancel
+;
+MSG_REQUEST
+Ýstek
+; Request
+;
+MSG_INFORMATION
+Bilgi
+; Information
+;
+MSG_MIN_FMT
+ Min: %ld
+;  Min: %ld
+;
+MSG_MAX_FMT
+ Maks: %ld
+;  Max: %ld
+;
+MSG_MIN_MAX_FMT
+ Min: %ld, Maks: %ld
+;  Min: %ld, Max: %ld
+;
+MSG_TOO_SMALL
+Çok küçük!
+; Too small!
+;
+MSG_TOO_BIG
+Çok büyük!
+; Too big!
+;
+MSG_PALETTE_COLORS
+_Palet Renkleri:
+; _Palette Colors:
+;
+MSG_RED
+_Kýrmýzý:
+; _Red:
+;
+MSG_GREEN
+_Yeþil:
+; _Green:
+;
+MSG_BLUE
+_Mavi:
+; _Blue:
+;
+MSG_COPY
+Kop_yala
+; Cop_y
+;
+MSG_SWAP
+_Takas
+; _Swap
+;
+MSG_SPREAD
+G_eçiþ
+; Spr_ead
+;
+MSG_UNDO
+_Geri Al
+; _Undo
+;
+MSG_COPY_TITLE
+Buraya kopyala...
+; Copy to...
+;
+MSG_SWAP_TITLE
+Þununla takas et...
+; Swap with...
+;
+MSG_SPREAD_TITLE
+Þuraya geçiþ yap...
+; Spread to...
+;
+MSG_CREATE_DRAWER
+'%s' çekmecesi\nyok. Oluþturulsun mu?
+; Drawer '%s' does\nnot exist. Create it?
+;
+MSG_DIR_ERROR
+Dizin hatasý!
+; Directory error!
+;
+MSG_MATCH_WINTITLE
+Eþleþtir...
+; Match...
+;
+MSG_DRAWER
+Çekmece
+; Drawer
+;
+MSG_ASSIGN
+Ata
+; Assign
+;
+MSG_ALL
+_Tümü
+; _All
+;
+MSG_MATCH
+_Eþleþtir...
+; _Match...
+;
+MSG_CLEAR
+Temiz_le
+; C_lear
+;
+MSG_VOLUMES
+_Veri Birimleri
+; _Volumes
+;
+MSG_PARENT
+Üst _Dizin
+; _Parent
+;
+MSG_PATTERN
+Dese_n:
+; Pa_ttern:
+;
+MSG_GET
+_Al
+; _Get
+;
+MSG_DOT_INFO
+._info
+; ._info
+;
+MSG_SELECTED
+Seçilen:
+; Selected:
+;
+MSG_FULL
+%ld%% dolu
+; %ld%% full
+;
+MSG_COULDNT_OPEN_FONT
+Yazý tipi açýlamadý!
+; Couldn't open font!
+;
+MSG_BOLD
+_Kalýn
+; _Bold
+;
+MSG_ITALIC
+_Ýtalik
+; _Italic
+;
+MSG_UNDERLINE
+_Altý çizili
+; _Underline
+;
+MSG_DASH_INTERLACED
+-Geçmeli
+; -Interlaced
+;
+MSG_DASH_HAM
+-HAM
+; -HAM
+;
+MSG_DASH_EHB
+-EHB
+; -EHB
+;
+MSG_REGULAR_SIZE
+Normal Boyut
+; Regular Size
+;
+MSG_TEXT_SIZE
+Metin Boyutu
+; Text Size
+;
+MSG_GFX_SIZE
+Grafik Boyutu
+; Graphics Size
+;
+MSG_MAX_SIZE
+Maksimum Boyut
+; Maximum Size
+;
+MSG_OVERSCAN
+O_verscan:
+; O_verscan:
+;
+MSG_WIDTH
+_Geniþlik:
+; _Width:
+;
+MSG_HEIGHT
+_Yükseklik:
+; _Height:
+;
+MSG_DEFAULT
+Varsayýlan
+; Default
+;
+MSG_COLORS
+Renk_ler:
+; Co_lors:
+;
+MSG_MAX
+Maks:
+; Max:
+;
+MSG_AUTOSCROLL
+_Otomatik Kaydýrma:
+; _AutoScroll:
+;

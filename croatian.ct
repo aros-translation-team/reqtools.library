@@ -1,0 +1,224 @@
+## version $VER: reqtools.catalog 39.0 (06.08.2026)
+## language hrvatski
+## codeset 5
+;
+MSG_OK
+ _U redu
+;  _Ok
+;
+MSG_CANCEL
+Odustani
+; _Cancel
+;
+MSG_OK_BAR_CANCEL
+ _U redu |_Odustani
+;  _Ok |_Cancel
+;
+MSG_LAST_BAR_CANCEL
+_Zadnje|_Odustani
+; _Last|_Cancel
+;
+MSG_REQUEST
+Zahtjev
+; Request
+;
+MSG_INFORMATION
+Informacija
+; Information
+;
+MSG_MIN_FMT
+ Min: %ld
+;  Min: %ld
+;
+MSG_MAX_FMT
+ Maks: %ld
+;  Max: %ld
+;
+MSG_MIN_MAX_FMT
+ Min: %ld, Maks: %ld
+;  Min: %ld, Max: %ld
+;
+MSG_TOO_SMALL
+Premalo!
+; Too small!
+;
+MSG_TOO_BIG
+Preveliko!
+; Too big!
+;
+MSG_PALETTE_COLORS
+Boje pa_lete:
+; _Palette Colors:
+;
+MSG_RED
+_Crvena:
+; _Red:
+;
+MSG_GREEN
+_Zelena:
+; _Green:
+;
+MSG_BLUE
+_Plava:
+; _Blue:
+;
+MSG_COPY
+_Kopiraj
+; Cop_y
+;
+MSG_SWAP
+Za_mijeni
+; _Swap
+;
+MSG_SPREAD
+_Ra¹iri
+; Spr_ead
+;
+MSG_UNDO
+_Poni¹ti
+; _Undo
+;
+MSG_COPY_TITLE
+Kopiraj u...
+; Copy to...
+;
+MSG_SWAP_TITLE
+Zamijeni s...
+; Swap with...
+;
+MSG_SPREAD_TITLE
+Ra¹iri na...
+; Spread to...
+;
+MSG_CREATE_DRAWER
+Mapa '%s' ne\npostoji. Stvoriti ju?
+; Drawer '%s' does\nnot exist. Create it?
+;
+MSG_DIR_ERROR
+Gre¹ka mape!
+; Directory error!
+;
+MSG_MATCH_WINTITLE
+Podudaranje...
+; Match...
+;
+MSG_DRAWER
+Mapa
+; Drawer
+;
+MSG_ASSIGN
+Assign
+; Assign
+;
+MSG_ALL
+_Sve
+; _All
+;
+MSG_MATCH
+_Podudaranje...
+; _Match...
+;
+MSG_CLEAR
+_Oèisti
+; C_lear
+;
+MSG_VOLUMES
+_Diskovi
+; _Volumes
+;
+MSG_PARENT
+_Prethodni
+; _Parent
+;
+MSG_PATTERN
+U_zorak:
+; Pa_ttern:
+;
+MSG_GET
+_Dohvati
+; _Get
+;
+MSG_DOT_INFO
+._info
+; ._info
+;
+MSG_SELECTED
+Izabrano:
+; Selected:
+;
+MSG_FULL
+%ld%% puno
+; %ld%% full
+;
+MSG_COULDNT_OPEN_FONT
+Ne mogu otvoriti slova!
+; Couldn't open font!
+;
+MSG_BOLD
+Pode_bljano
+; _Bold
+;
+MSG_ITALIC
+_Kurziv
+; _Italic
+;
+MSG_UNDERLINE
+_Podcrtano
+; _Underline
+;
+MSG_DASH_INTERLACED
+-S preplitanjem
+; -Interlaced
+;
+MSG_DASH_HAM
+-HAM
+; -HAM
+;
+MSG_DASH_EHB
+-EHB
+; -EHB
+;
+MSG_REGULAR_SIZE
+Obièna velièina
+; Regular Size
+;
+MSG_TEXT_SIZE
+Velièina Teksta
+; Text Size
+;
+MSG_GFX_SIZE
+Velièina Grafike
+; Graphics Size
+;
+MSG_MAX_SIZE
+Maksimalna Velièina
+; Maximum Size
+;
+MSG_OVERSCAN
+Overscan:
+; O_verscan:
+;
+MSG_WIDTH
+_©irina:
+; _Width:
+;
+MSG_HEIGHT
+_Visina:
+; _Height:
+;
+MSG_DEFAULT
+Osnovni
+; Default
+;
+MSG_COLORS
+B_oje:
+; Co_lors:
+;
+MSG_MAX
+Maks:
+; Max:
+;
+MSG_AUTOSCROLL
+_Auto-pomicanje:
+; _AutoScroll:
+;

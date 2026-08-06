@@ -1,0 +1,224 @@
+## version $VER: reqtools.catalog 39.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_OK
+ _D'acord
+;  _Ok
+;
+MSG_CANCEL
+_Cancel.lar
+; _Cancel
+;
+MSG_OK_BAR_CANCEL
+ _D'acord |_Cancel·lar
+;  _Ok |_Cancel
+;
+MSG_LAST_BAR_CANCEL
+Ú_ltim|_Cancel·lar
+; _Last|_Cancel
+;
+MSG_REQUEST
+Petició
+; Request
+;
+MSG_INFORMATION
+Informació
+; Information
+;
+MSG_MIN_FMT
+ Mín: %ld
+;  Min: %ld
+;
+MSG_MAX_FMT
+ Màx: %ld
+;  Max: %ld
+;
+MSG_MIN_MAX_FMT
+ Mín: %ld, Màx: %ld
+;  Min: %ld, Max: %ld
+;
+MSG_TOO_SMALL
+Massa petit!
+; Too small!
+;
+MSG_TOO_BIG
+Massa gran!
+; Too big!
+;
+MSG_PALETTE_COLORS
+Colors de la _paleta:
+; _Palette Colors:
+;
+MSG_RED
+Ve_rmell:
+; _Red:
+;
+MSG_GREEN
+_Verd:
+; _Green:
+;
+MSG_BLUE
+_Blau:
+; _Blue:
+;
+MSG_COPY
+Cop_iar
+; Cop_y
+;
+MSG_SWAP
+_Intercanviar
+; _Swap
+;
+MSG_SPREAD
+_Escampar
+; Spr_ead
+;
+MSG_UNDO
+_Desfer
+; _Undo
+;
+MSG_COPY_TITLE
+Copiar a...
+; Copy to...
+;
+MSG_SWAP_TITLE
+Intercanviar amb...
+; Swap with...
+;
+MSG_SPREAD_TITLE
+Escampar a...
+; Spread to...
+;
+MSG_CREATE_DRAWER
+El calaix '%s' no\nexisteix. Crear-lo?
+; Drawer '%s' does\nnot exist. Create it?
+;
+MSG_DIR_ERROR
+Error de directori!
+; Directory error!
+;
+MSG_MATCH_WINTITLE
+Filtrar...
+; Match...
+;
+MSG_DRAWER
+Calaix
+; Drawer
+;
+MSG_ASSIGN
+Assignació
+; Assign
+;
+MSG_ALL
+_Tot
+; _All
+;
+MSG_MATCH
+_Filtrar...
+; _Match...
+;
+MSG_CLEAR
+_Netejar
+; C_lear
+;
+MSG_VOLUMES
+_Volums
+; _Volumes
+;
+MSG_PARENT
+_Pare
+; _Parent
+;
+MSG_PATTERN
+Pa_tró:
+; Pa_ttern:
+;
+MSG_GET
+_Obtenir
+; _Get
+;
+MSG_DOT_INFO
+._info
+; ._info
+;
+MSG_SELECTED
+Seleccionat:
+; Selected:
+;
+MSG_FULL
+%ld%% ple
+; %ld%% full
+;
+MSG_COULDNT_OPEN_FONT
+No s'ha pogut obrir la font!
+; Couldn't open font!
+;
+MSG_BOLD
+_Negreta
+; _Bold
+;
+MSG_ITALIC
+Curs_iva
+; _Italic
+;
+MSG_UNDERLINE
+S_ubratllat
+; _Underline
+;
+MSG_DASH_INTERLACED
+-Entrellaçat
+; -Interlaced
+;
+MSG_DASH_HAM
+-HAM
+; -HAM
+;
+MSG_DASH_EHB
+-EHB
+; -EHB
+;
+MSG_REGULAR_SIZE
+Mida normal
+; Regular Size
+;
+MSG_TEXT_SIZE
+Mida de text
+; Text Size
+;
+MSG_GFX_SIZE
+Mida de gràfics
+; Graphics Size
+;
+MSG_MAX_SIZE
+Mida màxima
+; Maximum Size
+;
+MSG_OVERSCAN
+O_verscan:
+; O_verscan:
+;
+MSG_WIDTH
+_Amplada:
+; _Width:
+;
+MSG_HEIGHT
+_Alçada:
+; _Height:
+;
+MSG_DEFAULT
+Defecte
+; Default
+;
+MSG_COLORS
+Co_lors:
+; Co_lors:
+;
+MSG_MAX
+Màx:
+; Max:
+;
+MSG_AUTOSCROLL
+_Autodesplaçament:
+; _AutoScroll:
+;
