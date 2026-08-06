@@ -14,7 +14,7 @@
 ;
 ; Note: there are two spaces around the Ok string to make it a bit wider!
 MSG_OK
- _Ok 
+ _Ok
 MSG_CANCEL
 _Annuleer
 MSG_OK_BAR_CANCEL
@@ -35,13 +35,13 @@ Informatie
 ;
 ; Note: there are two spaces around the next three strings!
 MSG_MIN_FMT
- Min: %ld 
+ Min: %ld
 ;
 MSG_MAX_FMT
- Max: %ld 
+ Max: %ld
 ;
 MSG_MIN_MAX_FMT
- Min: %ld, Max: %ld 
+ Min: %ld, Max: %ld
 ;
 MSG_TOO_SMALL
 Te klein!
@@ -109,7 +109,7 @@ MSG_ALL
 All_e
 ;
 MSG_MATCH
-_Patroon..
+_Patroon.....
 ;
 MSG_CLEAR
 _Geen
